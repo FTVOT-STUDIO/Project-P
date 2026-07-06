@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Iota
+  m_Controller: {fileID: 9100000, guid: 126554ebb04a7fd48a8c7735da641b2b, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: f39c59c973628214692da60d1f6fdde2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6f2f830cfed93914f9e47f2a36635e90, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b778aceeb9e612b48b988402600eda29, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3b7b75ddab7292f45a91515d890c4bd8, type: 2}

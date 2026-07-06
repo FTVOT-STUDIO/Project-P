@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ReGravityBox
+  m_Controller: {fileID: 9100000, guid: 24a981116815a5c4c9fb81ff1e1eb8dc, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: a1af0abfb893db5428121a7b7ac531d6, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 556f77a1a252e5748a6801e993ddab81, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 245d573d5c00ee846aad1480405ae5a3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b6040dfa939729649877b941339f0159, type: 2}

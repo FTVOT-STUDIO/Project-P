@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Item
+  - Platform
+  - Manager
+  - ETC
+  - Hook
+  - Summonor
+  - Skill
+  - Spike
+  - Coll
+  - Box
+  - GetBox
+  - EnemyBullet
+  - Lightning
+  - LimitColl
+  - Bullet
+  - WaterTile
+  - Repos
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - LoadUI
+  - 
+  - Platform
+  - Enemy
+  - Player
+  - PlayerDamaged
+  - Box
+  - Summonor
+  - item
+  - Spike
+  - Hook
+  - Lightning
+  - Coll
+  - FinishFlag
+  - Bullet
+  - LimitColl
+  - WaterTile
+  - Weapon
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: LoadUI
+    uniqueID: 3532398739
+    locked: 0

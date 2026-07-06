@@ -1,0 +1,87 @@
+# =========================
+# Unity generated folders
+# =========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+# Unity build outputs
+[Bb]uild/
+[Bb]uilds/
+프로젝트 P/
+*.apk
+*.aab
+*.unitypackage
+# =========================
+# Unity cache / generated files
+# =========================
+*.tmp
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# =========================
+# Visual Studio / Rider / JetBrains
+# =========================
+.vs/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.pdb
+*.mdb
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# Plastic SCM
+# =========================
+.plastic/
+
+# =========================
+# Unity crash / memory capture
+# =========================
+sysinfo.txt
+[Mm]emoryCaptures/
+Recordings/
+
+# =========================
+# Asset Store tools
+# =========================
+[Aa]ssets/AssetStoreTools*
+
+# =========================
+# Android / Unity build outputs
+# =========================
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# =========================
+# Android signing keys
+# 중요: 공개 저장소에 절대 올리지 않는 것을 권장합니다.
+# =========================
+[Kk]eystore/
+*.keystore
+*.jks
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini

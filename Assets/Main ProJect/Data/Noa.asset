@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3145883fd1d62f4798ce142956d56f4, type: 3}
+  m_Name: Noa
+  m_EditorClassIdentifier: 
+  EnemyName: "\uB178\uC544"
+  anim: {fileID: 9100000, guid: 4aa016dc0fd380843a0b65711a12f028, type: 2}
+  Health: 15
+  Speed: 6

@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AtraHasis
+  m_Controller: {fileID: 9100000, guid: 126554ebb04a7fd48a8c7735da641b2b, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: f39c59c973628214692da60d1f6fdde2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b8b7eedb573f7ae448e65d54aed6801d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b778aceeb9e612b48b988402600eda29, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 13b0ec6888e16d14baab86086a277446, type: 2}

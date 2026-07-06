@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: JumpingBox
+  m_Controller: {fileID: 9100000, guid: 24a981116815a5c4c9fb81ff1e1eb8dc, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: a1af0abfb893db5428121a7b7ac531d6, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 93c0377e99423fa4ca78257eceebd988, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 245d573d5c00ee846aad1480405ae5a3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2be4ed7b9fe87bb41bd37c2097b046d0, type: 2}

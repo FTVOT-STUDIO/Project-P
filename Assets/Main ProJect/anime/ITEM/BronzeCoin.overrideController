@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BronzeCoin
+  m_Controller: {fileID: 9100000, guid: 511037711fbb3c9418a5653738017961, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 98bfd35583aef2d42b20bdb965e80046, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3bd223f8cc95b904ab67acc1f0e79818, type: 2}
